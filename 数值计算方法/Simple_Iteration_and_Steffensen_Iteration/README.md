@@ -1,0 +1,3 @@
+简单迭代法与Steffensen迭代法
+
+使用matlab和jupyter notebook实现
